@@ -45,7 +45,7 @@ Grade | Score | Grade | Score | Grade | Score | Grade | Score | Grade | Score
 ---   | ---   | ---   | ---   | ---   | ---   | ---   | ---  |--- | ---
  A |94-100 | B+ | 87-90 | C+ |77-80 | D+| 67-70 | F | 0-60 
  A-| 90-94 | B | 83-87 |  C |73-77 | D |63-67   | |
-    |      | B- | 80-83 | C- |70-73 | D- |60-63 | |
+ A    | a     | B- | 80-83 | C- |70-73 | D- |60-63 | |
           
 ### Weights
 The following table relates assignments to course weights

@@ -31,6 +31,25 @@ This course will rely on several references, including
    * Kong, Siauw, and Bayen: Python Programming And Numerical Methods: A Guide For Engineers And Scientists
    * Chapra and Klough: Applied Numerical Methods with Python
 
+### Calendar
+The following calendar is subject to reasonable changes.
+* Week 1: Introduction
+* Week 2-4: Root Finding
+* Week 5-7: Linear Systems
+* Week 8-10: Numerical Calculus
+
+### Grades
+The following table relates the course score to a letter grade.
+ A 94-100 | B+ 87-90 | C+ 77-80 | D+ 67-70 | F 0-60
+ A- 90-94 | B 83-87 |  C 73-77 | D 63-67  | 
+          | B- 80-83 | C- 70-73 | D- 60-63|
+          
+### Weights
+The following table relates assignments to course weights
+Homework Labs | 30%
+Unit Projects | 40%
+Course Project | 30%
+
 ### Communication 
 I will answer my email <lynch@ewu.edu> as usual, and email is the best way to communicate with me. 
 

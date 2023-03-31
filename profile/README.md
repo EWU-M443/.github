@@ -48,12 +48,11 @@ The following table relates the course score to a letter grade.
 ### Weights
 The following table relates assignments to course weights
 
-$$ \begin{tabular}{ll}
-Homework Labs & 30%\\
-Unit Projects & 40%\\
-Course Project & 30%
-\end{tabular}
-$$
+- -
+Homework Labs | 30%
+Unit Projects | 40%
+Course Project | 30%
+
 
 ### Communication 
 I will answer my email <lynch@ewu.edu> as usual, and email is the best way to communicate with me. 

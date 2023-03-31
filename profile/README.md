@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 
+
+Welcome to Math 443: Numerical Methods
 
 <!--
 

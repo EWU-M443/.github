@@ -49,7 +49,7 @@ The following table relates the course score to a letter grade.
 The following table relates assignments to course weights
 
 Category | Weight
-- -
+- | -
 Homework Labs | 30%
 Unit Projects | 40%
 Course Project | 30%

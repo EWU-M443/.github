@@ -17,7 +17,7 @@ Math 443 a five-credit study of topics in numerical methods. This course introdu
 The prerequisite for Math 443 is Math 163 and Math 231 or permission of the instructor. As always, sufficient mastery of prerequisite material is the responsibility of the student. To find success in this class, one must spend time with the material outside the classroom. Students should prepare to dedicate two to three hours outside of class for each hour of lecture. This time explicitly includes reading the text and understanding homework exercises.
 
 ### Objectives
-Students who complete Math 443 will leave the course with an understanding of numerical techniques in order to perform the following tasks: approximation definite integrals, approximation of solutions of initial value problems, and estimation of roots of nonlinear scalar equations. The course will also include an introduction to solving linear systems of equations. Success in Math 443 will be measured in part by achievement of the following course objectives.  Students shall
+Students who complete Math 443 will leave the course with an understanding of numerical techniques in order to perform the following tasks: approximation of definite integrals, approximation of solutions of initial value problems, and estimation of roots of nonlinear scalar equations. The course will also include an introduction to solving linear systems of equations. Success in Math 443 will be measured in part by achievement of the following course objectives.  Students shall
 
   *  Compare the error from a numerical calculus approximation to the estimate;
   *  Implement a numerical approximation to a solution of an initial value problem;

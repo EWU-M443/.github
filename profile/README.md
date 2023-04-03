@@ -27,9 +27,10 @@ Students who complete Math 443 will leave the course with an understanding of nu
 ### Text 
 This course will rely on several references, including
 
-   * Liu and Otken: First Semester in Numerical Analysis 
-   * Kong, Siauw, and Bayen: Python Programming And Numerical Methods: A Guide For Engineers And Scientists
-   * Chapra and Klough: Applied Numerical Methods with Python
+   * Chapra and Klough: Applied Numerical Methods with Python (2021)
+   * Kong, Siauw, and Bayen: Python Programming And Numerical Methods: A Guide For Engineers And Scientists (2020)
+   * Liu and Otken: First Semester in Numerical Analysis (2020)
+   * Strang: Computational Science and Engineering (2007)
 
 ### Calendar
 The following calendar is subject to reasonable changes.

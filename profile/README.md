@@ -11,7 +11,7 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 ### Summary 
-Math 443 a five-credit independent study of current topics in numerical methods. This course introduces students to scientific computing by providing a survey of computational techniques to solve scalar nonlinear equations, numerical integration and differentiation, and initial value problems. Additional topics may include Monte Carlo simulation, curve fitting, and linear programming.
+Math 443 a five-credit study of topics in numerical methods. This course introduces students to scientific computing by providing a survey of computational techniques to solve scalar nonlinear equations, numerical integration and differentiation, and initial value problems. Additional topics may include Monte Carlo simulation, curve fitting, and linear programming.
 
 ### Expectations 
 The prerequisite for Math 443 is Math 163 and Math 231 or permission of the instructor. As always, sufficient mastery of prerequisite material is the responsibility of the student. To find success in this class, one must spend time with the material outside the classroom. Students should prepare to dedicate two to three hours outside of class for each hour of lecture. This time explicitly includes reading the text and understanding homework exercises.
@@ -76,4 +76,4 @@ Students who wish to request an accommodation for reasons of faith or conscience
 ### Title IX Statement
 EWU recognizes the inherent dignity of all individuals and promotes respect for all people. Sexual misconduct will NOT be tolerated at EWU. If you have been subjected to sexual misconduct, we encourage you to report this matter promptly. As a faculty member, I am interested in promoting a safe and healthy environment, and should I learn of any sexual misconduct I must report the matter to the Title IX Coordinator. Should you want to report to a confidential source you may contact any of the following: Counseling and Psychological Services (CAPS, 509.359.2366), Sexual Assault Family Trauma (SAFeT, 24 hours, 509.624.7273), First Call for Help (24 hours, 509.838.4428), National Suicide Prevention Lifeline (24 hours, 800.273.8255).
 
-### LAST UPDATE: March 31, 2022
+### LAST UPDATE: April 3, 2023
